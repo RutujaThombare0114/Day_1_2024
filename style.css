@@ -1,0 +1,12 @@
+.year{
+    margin-top: 21%;
+    background-color: azure;
+    color: red;
+    font-size: 120px;
+    font-family:cursive;
+    font-style: italic;
+    font-weight: 600;
+    align-items: center;
+    justify-content: space-evenly;
+    display: flex;
+}
